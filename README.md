@@ -1,1 +1,1 @@
-Project refers to the follwoing paper: https://www.researchgate.net/publication/370063924_Generative_AI_for_immersive_experiences_integrating_text-to-image_models_in_VR-mediated_co-design_workflows 
+Citing paper: https://www.researchgate.net/publication/370063924_Generative_AI_for_immersive_experiences_integrating_text-to-image_models_in_VR-mediated_co-design_workflows 
